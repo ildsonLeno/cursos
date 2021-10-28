@@ -13,8 +13,7 @@ Lista de Aprovados
 // console.log(texto);
 
 let texto = 'Lista de Aprovados';
-texto += '\n==================';
-texto += '\n';
+texto += '\n==================\n';
 texto += '\n1. Ana Silva';
 texto += '\n2. Pedro Albuquerque';
 texto += '\n3. Guilherme Pereira';
